@@ -1,0 +1,123 @@
+This is the command line Oxen wallet. It needs to connect to a Oxen
+daemon to work correctly.
+
+WARNING: Do not reuse your Oxen keys on a contentious fork, doing so will harm your privacy.
+ Only consider reusing your key on a contentious fork if the fork has key reuse mitigations built in.
+
+Oxen 'Audacious Aurochs' (v9.2.0-unknown-dev)
+Logging to /home/sean/oxen-core/build/bin/oxen-wallet-cli.log
+Opened wallet: T6SjALssDNvPZnTnV7vr459SX632c4X5qjLKfHfzvS32RPuhH3vnJmP9fyiD6ZiMu4XPk8ofH95mNRDg5bUPWkmq1LGAnyP3B
+**********************************************************************
+Use the "help" command to see the list of available commands.
+Use "help <command>" to see a command's documentation.
+**********************************************************************
+Warning: using an untrusted daemon at http://public.loki.foundation:38157/
+Using a third party daemon can be detrimental to your security and privacy
+Using your own without SSL exposes your RPC traffic to monitoring
+You are strongly encouraged to connect to the Oxen network using your own daemon
+If you or someone you trust are operating this daemon, you can use --trusted-daemon
+
+
+Amount: 5.000000000, number of keys: 2
+495463 593356 
+
+Amount: 10.000000000, number of keys: 1
+593349 
+
+Amount: 16.469304960, number of keys: 1
+531172 
+
+Amount: 16.489721590, number of keys: 1
+595471 
+
+Amount: 16.489722320, number of keys: 1
+530251 
+
+Amount: 16.489722570, number of keys: 1
+524705 
+
+Amount: 16.489722690, number of keys: 1
+539934 
+
+Amount: 16.500000000, number of keys: 141
+475245 475246 475247 475248 475249 475250 475257 475259 
+475260 475261 475268 475269 475270 475271 475272 475276 
+475277 475282 475285 475289 475291 475293 475296 475297 
+475299 475304 475305 475306 475307 475308 475311 475314 
+475315 475432 485241 485612 485704 486441 486923 486947 
+487268 487360 487636 488810 489454 489775 490833 492306 
+492466 492581 493870 494145 494583 494812 494881 495341 
+495822 496304 498628 499143 499719 500103 500151 501642 
+501714 501715 501738 501763 519144 519175 519206 519237 
+519268 519299 519330 519392 519423 519516 519547 519609 
+519640 519671 519702 519733 519764 519795 519826 519888 
+519919 519950 519981 520012 520074 520136 520167 520198 
+520229 520260 520291 520322 520384 520415 520446 520477 
+520508 520570 520601 520632 520694 520725 520756 520787 
+520818 520880 520911 520942 520973 521004 521035 521066 
+521097 521128 521159 521221 521283 521314 521345 521376 
+521407 521438 521469 521500 521593 521624 521655 521686 
+521748 521779 521810 521841 521872 
+
+Amount: 16.540198990, number of keys: 1
+520043 
+
+Amount: 16.540277310, number of keys: 1
+500968 
+
+Amount: 20.000000000, number of keys: 3
+494742 495228 495996 
+
+Amount: 20.369989148, number of keys: 1
+505821 
+
+Amount: 25.000000000, number of keys: 1
+494649 
+
+Amount: 25.859329680, number of keys: 1
+525625 
+
+Amount: 25.949469420, number of keys: 1
+525682 
+
+Amount: 25.979469050, number of keys: 1
+525698 
+
+Amount: 49.769007120, number of keys: 1
+512452 
+
+Amount: 49.899565680, number of keys: 1
+495483 
+
+Amount: 50.000000000, number of keys: 2
+495967 506845 
+
+Amount: 86.153090244, number of keys: 1
+573235 
+
+Amount: 100.000000000, number of keys: 6
+494756 496089 524698 524705 530251 595471 
+
+Min block height: 475245
+Max block height: 595471
+Min amount found: 5.000000000
+Max amount found: 100.000000000
+Total count: 170
+
+Bin size: 2404.54
+Outputs per *: 4.8
+count
+  ^
+  |                  *                               |
+  |                  *                               |
+  |                  *                               |
+  |*                 *                               |
+  |*                 *                               |
+  |*                 **                              |
+  |*                 **                              |
+  |*       *         **                              |
+  |*       *         **                              |
+  |*   ********** *  *** **  *             *        *|
+  +--------------------------------------------------+--> block height
+   ^                                                ^
+  475245                                          595471
